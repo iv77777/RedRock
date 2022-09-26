@@ -1218,6 +1218,10 @@ body._lock-scrol {
     padding-right: 2.5rem;
   }
 
+  .questions__spoller-text {
+    padding: 0rem 1.25rem 1.25rem;
+  }
+
   .questions__spollers._init .questions__spoller-title::before,
   .questions__spollers._init .questions__spoller-title::after {
     right: 0.625rem;
